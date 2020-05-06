@@ -6,8 +6,7 @@
  * I then ported it to the Particle Photon (I am Donnie Barnes <djb@donniebarnes.com> and started adding a few features.
  *
  * And then I built a couple complete clocks and gave one to my friend Caroline, who continued to add features, including
- * the different modes and now better DST calculation. There's also some mediocre support for using the Particle app to
- * timezone info.
+ * the different modes and now better DST calculation.
  *
  */
 #include <neopixel.h>
